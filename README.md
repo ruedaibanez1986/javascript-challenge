@@ -1,3 +1,5 @@
+https://img.shields.io/gitlab/pipeline/ruedaibanez1986/javascript-challenge/master
+
 # javascript-challenge
 JavaScript Homework - JavaScript and DOM Manipulation
 ## Background
