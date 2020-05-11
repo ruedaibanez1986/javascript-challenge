@@ -9,4 +9,8 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 --------------------------------------------------------------------------------------------------
 
-Work using *Italic*JavaScript*Italic* to dynamically present a dataset of UFO for a specific period of time. Part of the challenge was to integrate a date filter to be able to sort the data by dates. 
+Work using *JavaScript* to dynamically present a dataset of **UFO** for a specific period of time. Part of the challenge was to integrate a date filter to be able to sort the data by dates. 
+
+Part of the assignmet was to customize the index.html provided to our taste and have fun with it. 
+
+Part of the assignment was to customize the `index.html` provided to our taste and have fun with it. 
